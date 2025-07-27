@@ -1,6 +1,6 @@
 # NewsApp_UsingJava
 
-_by VARSHA 
+ 
 
 **API KEY -** https://content.guardianapis.com/search?q=science&api-key=test&show-fields=thumbnail
 
